@@ -1,15 +1,15 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-09 07:15:28
-item-10,Dummy Core,497
+item-10,Dummy Core,511
 item-31,Basic Training Data,6405
 item-32,Intermediate Training Data,3630
 item-33,Advanced Training Data,1641
 -1,kalina_level,30
 -1,kalina_favor,137104
-item-1,T-Doll Contract,2181
-item-2,Equipment Contract,1153
+item-1,T-Doll Contract,2179
+item-2,Equipment Contract,1151
 item-3,Quick Production Contract,1502
-item-4,Quick Repair Contract,12818
+item-4,Quick Repair Contract,12816
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,83
@@ -47,7 +47,7 @@ item-306,Core Data: QLZ-04,5
 item-307,Central Data: Mk 153,15
 item-308,Core Data: PP93,20
 item-506,Battery,4960
-item-507,Surplus EXP,27024
+item-507,Surplus EXP,178704
 item-508,Friendship Points,14740
 item-509,Fairy Command,116
 item-510,Combat Sim Extra Energy,20
@@ -557,7 +557,7 @@ gift-100005,Mulan Tea,40
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,1146
+gift-200001,Combat Report,1226
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
