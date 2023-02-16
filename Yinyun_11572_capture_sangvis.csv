@@ -1,0 +1,103 @@
+﻿Datetime,Area ID,Area Boss,Remain Count,Capture Type,Capture Status,Sangvis ID,Sangvis Rank,Sangvis Name
+2022-12-19 16:27:48,21,,87,PULSE,O,2005,★★,Tarantula
+2022-12-19 16:27:56,21,,86,PULSE,O,3004,★,Jaeger
+2022-12-20 15:28:15,30,Destroyer - Dashing Reindeer,99,PULSE,O,2016,★★,Gingerbread Guard
+2022-12-20 15:28:25,30,Destroyer - Dashing Reindeer,99,PULSE,X,2016,★★,Gingerbread Guard
+2022-12-20 15:28:33,30,Destroyer - Dashing Reindeer,98,PULSE,O,2004,★★,Nemeum
+2022-12-20 15:28:42,30,Destroyer - Dashing Reindeer,97,PULSE,O,3005,★,Striker
+2022-12-20 15:28:50,30,Destroyer - Dashing Reindeer,96,PULSE,O,3006,★,Dinergate
+2022-12-20 15:28:58,30,Destroyer - Dashing Reindeer,95,PULSE,O,3001,★,Ripper
+2022-12-20 15:29:06,30,Destroyer - Dashing Reindeer,94,PULSE,O,2005,★★,Tarantula
+2022-12-20 15:29:14,30,Destroyer - Dashing Reindeer,93,PULSE,O,3008,★,Prowler
+2022-12-20 15:29:22,30,Destroyer - Dashing Reindeer,92,PULSE,O,3005,★,Striker
+2022-12-21 16:49:10,30,Destroyer - Dashing Reindeer,91,PULSE,O,3002,★,Vespid
+2022-12-22 13:24:35,30,Destroyer - Dashing Reindeer,90,PULSE,O,3007,★,Scout
+2022-12-22 13:24:44,30,Destroyer - Dashing Reindeer,89,PULSE,O,3002,★,Vespid
+2022-12-23 00:44:33,30,Destroyer - Dashing Reindeer,88,PULSE,O,3006,★,Dinergate
+2022-12-23 15:28:20,30,Destroyer - Dashing Reindeer,87,PULSE,O,3007,★,Scout
+2022-12-23 15:28:29,30,Destroyer - Dashing Reindeer,87,PULSE,X,2004,★★,Nemeum
+2022-12-24 10:07:58,30,Destroyer - Dashing Reindeer,86,PULSE,O,3008,★,Prowler
+2022-12-27 16:27:55,30,Destroyer - Dashing Reindeer,85,PULSE,O,3004,★,Jaeger
+2022-12-27 18:14:53,30,Destroyer - Dashing Reindeer,84,PULSE,O,3007,★,Scout
+2022-12-27 18:15:04,30,Destroyer - Dashing Reindeer,83,PULSE,O,3006,★,Dinergate
+2022-12-27 18:15:13,30,Destroyer - Dashing Reindeer,82,PULSE,O,3004,★,Jaeger
+2022-12-27 18:15:23,30,Destroyer - Dashing Reindeer,81,PULSE,O,3001,★,Ripper
+2022-12-27 18:15:33,30,Destroyer - Dashing Reindeer,80,PULSE,O,3004,★,Jaeger
+2022-12-29 16:31:29,30,Destroyer - Dashing Reindeer,79,PULSE,O,2004,★★,Nemeum
+2022-12-29 16:31:39,30,Destroyer - Dashing Reindeer,78,PULSE,O,3006,★,Dinergate
+2022-12-29 16:31:47,30,Destroyer - Dashing Reindeer,77,PULSE,O,3002,★,Vespid
+2022-12-29 16:31:56,30,Destroyer - Dashing Reindeer,76,PULSE,O,3004,★,Jaeger
+2023-01-01 18:54:04,30,Destroyer - Dashing Reindeer,75,PULSE,O,3002,★,Vespid
+2023-01-01 18:54:13,30,Destroyer - Dashing Reindeer,74,PULSE,O,3008,★,Prowler
+2023-01-01 18:54:21,30,Destroyer - Dashing Reindeer,73,PULSE,O,3007,★,Scout
+2023-01-01 18:54:28,30,Destroyer - Dashing Reindeer,72,PULSE,O,3002,★,Vespid
+2023-01-01 18:54:38,30,Destroyer - Dashing Reindeer,71,PULSE,O,3010,★,Goliath Factory
+2023-01-04 21:09:44,30,Destroyer - Dashing Reindeer,70,PULSE,O,2004,★★,Nemeum
+2023-01-04 21:09:53,30,Destroyer - Dashing Reindeer,70,PULSE,X,2005,★★,Tarantula
+2023-01-04 21:10:02,30,Destroyer - Dashing Reindeer,69,PULSE,O,3004,★,Jaeger
+2023-01-04 21:10:10,30,Destroyer - Dashing Reindeer,68,PULSE,O,3005,★,Striker
+2023-01-04 21:10:18,30,Destroyer - Dashing Reindeer,67,PULSE,O,3002,★,Vespid
+2023-01-04 21:10:25,30,Destroyer - Dashing Reindeer,66,PULSE,O,3005,★,Striker
+2023-01-04 21:10:34,30,Destroyer - Dashing Reindeer,65,PULSE,O,3008,★,Prowler
+2023-01-04 21:10:42,30,Destroyer - Dashing Reindeer,64,PULSE,O,3003,★,Guard
+2023-01-05 21:37:19,30,Destroyer - Dashing Reindeer,63,PULSE,O,3003,★,Guard
+2023-01-05 21:37:28,30,Destroyer - Dashing Reindeer,62,PULSE,O,3010,★,Goliath Factory
+2023-01-07 21:24:45,30,Destroyer - Dashing Reindeer,61,PULSE,O,2005,★★,Tarantula
+2023-01-07 21:24:55,30,Destroyer - Dashing Reindeer,60,PULSE,O,3003,★,Guard
+2023-01-07 21:25:03,30,Destroyer - Dashing Reindeer,59,PULSE,O,3001,★,Ripper
+2023-01-07 21:25:11,30,Destroyer - Dashing Reindeer,58,PULSE,O,3010,★,Goliath Factory
+2023-01-09 20:37:22,30,Destroyer - Dashing Reindeer,57,PULSE,O,3009,★,Jaguar
+2023-01-10 21:26:18,30,Destroyer - Dashing Reindeer,56,PULSE,O,3009,★,Jaguar
+2023-01-10 21:26:29,30,Destroyer - Dashing Reindeer,55,PULSE,O,3010,★,Goliath Factory
+2023-01-10 21:26:49,30,Destroyer - Dashing Reindeer,54,PULSE,O,3002,★,Vespid
+2023-01-10 21:27:11,30,Destroyer - Dashing Reindeer,53,PULSE,O,3007,★,Scout
+2023-01-10 21:27:44,23,Alchemist,99,PULSE,O,3009,★,Jaguar
+2023-01-11 20:50:45,30,Destroyer - Dashing Reindeer,52,PULSE,O,3009,★,Jaguar
+2023-01-11 20:50:55,30,Destroyer - Dashing Reindeer,51,PULSE,O,3003,★,Guard
+2023-01-17 18:32:04,23,Alchemist,98,PULSE,O,3003,★,Guard
+2023-01-17 20:24:58,23,Alchemist,97,PULSE,O,3003,★,Guard
+2023-01-17 20:25:06,23,Alchemist,96,PULSE,O,3003,★,Guard
+2023-01-17 20:25:13,23,Alchemist,95,PULSE,O,3002,★,Vespid
+2023-01-17 20:25:28,23,Alchemist,95,PULSE,X,2014,★★,Aegis_SWAP
+2023-01-17 20:25:37,23,Alchemist,94,PULSE,O,3010,★,Goliath Factory
+2023-01-17 20:25:47,23,Alchemist,93,PULSE,O,3001,★,Ripper
+2023-01-17 20:25:55,23,Alchemist,92,PULSE,O,3007,★,Scout
+2023-01-17 20:26:04,23,Alchemist,91,PULSE,O,3007,★,Scout
+2023-01-17 20:26:13,23,Alchemist,90,PULSE,O,3008,★,Prowler
+2023-01-20 21:15:44,23,Alchemist,89,PULSE,O,3008,★,Prowler
+2023-01-20 21:15:52,23,Alchemist,88,PULSE,O,2014,★★,Aegis_SWAP
+2023-01-20 21:16:01,23,Alchemist,87,PULSE,O,3007,★,Scout
+2023-01-20 21:16:12,23,Alchemist,86,PULSE,O,3007,★,Scout
+2023-01-20 21:16:19,23,Alchemist,85,PULSE,O,3006,★,Dinergate
+2023-01-20 21:16:29,23,Alchemist,84,PULSE,O,3005,★,Striker
+2023-01-20 21:16:36,23,Alchemist,83,PULSE,O,3004,★,Jaeger
+2023-01-20 21:16:45,23,Alchemist,82,PULSE,O,3009,★,Jaguar
+2023-01-21 13:40:33,23,Alchemist,81,PULSE,O,3005,★,Striker
+2023-01-22 14:04:50,23,Alchemist,80,PULSE,O,3004,★,Jaeger
+2023-01-22 14:05:01,23,Alchemist,79,PULSE,O,3010,★,Goliath Factory
+2023-01-22 20:57:17,23,Alchemist,78,PULSE,O,3005,★,Striker
+2023-01-23 22:20:18,23,Alchemist,77,PULSE,O,3001,★,Ripper
+2023-01-23 22:20:27,23,Alchemist,76,PULSE,O,3010,★,Goliath Factory
+2023-01-25 23:41:37,23,Alchemist,75,PULSE,O,3010,★,Goliath Factory
+2023-01-25 23:41:48,23,Alchemist,74,PULSE,O,3001,★,Ripper
+2023-01-25 23:41:56,23,Alchemist,73,PULSE,O,3001,★,Ripper
+2023-01-25 23:42:03,23,Alchemist,72,PULSE,O,3005,★,Striker
+2023-01-26 15:52:13,23,Alchemist,71,PULSE,O,3010,★,Goliath Factory
+2023-01-26 15:52:21,23,Alchemist,70,PULSE,O,3010,★,Goliath Factory
+2023-01-27 14:28:01,23,Alchemist,69,PULSE,O,3010,★,Goliath Factory
+2023-01-27 14:28:10,23,Alchemist,68,PULSE,O,2014,★★,Aegis_SWAP
+2023-01-27 14:28:22,23,Alchemist,67,PULSE,O,3003,★,Guard
+2023-01-27 14:28:29,23,Alchemist,66,PULSE,O,3002,★,Vespid
+2023-01-27 14:28:37,23,Alchemist,65,PULSE,O,3004,★,Jaeger
+2023-01-27 14:28:45,23,Alchemist,64,PULSE,O,3006,★,Dinergate
+2023-01-27 14:28:53,23,Alchemist,63,PULSE,O,3008,★,Prowler
+2023-01-27 14:29:05,23,Alchemist,63,PULSE,X,2015,★★,Jaeger SWAP
+2023-01-28 23:15:33,23,Alchemist,62,PULSE,O,3005,★,Striker
+2023-01-28 23:15:44,23,Alchemist,61,PULSE,O,3009,★,Jaguar
+2023-01-28 23:15:54,23,Alchemist,61,PULSE,X,2015,★★,Jaeger SWAP
+2023-01-30 09:07:32,23,Alchemist,57,PULSE,O,3003,★,Guard
+2023-01-30 18:01:58,23,Alchemist,56,PULSE,O,3009,★,Jaguar
+2023-01-30 18:02:12,23,Alchemist,56,PULSE,X,2015,★★,Jaeger SWAP
+2023-02-02 23:30:12,23,Alchemist,55,PULSE,O,3009,★,Jaguar
+2023-02-02 23:30:21,23,Alchemist,54,PULSE,O,3007,★,Scout
+2023-02-03 10:38:37,23,Alchemist,53,PULSE,O,3005,★,Striker
