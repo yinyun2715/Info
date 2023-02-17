@@ -1,34 +1,34 @@
 ﻿Item ID,Item Name,Item Number
 -1,reg_time,2018-05-09 07:15:28
-item-10,Dummy Core,511
-item-31,Basic Training Data,6405
-item-32,Intermediate Training Data,3630
-item-33,Advanced Training Data,1641
+item-10,Dummy Core,537
+item-31,Basic Training Data,5805
+item-32,Intermediate Training Data,3510
+item-33,Advanced Training Data,1661
 -1,kalina_level,30
 -1,kalina_favor,137104
-item-1,T-Doll Contract,2179
-item-2,Equipment Contract,1151
-item-3,Quick Production Contract,1502
-item-4,Quick Repair Contract,12816
+item-1,T-Doll Contract,2188
+item-2,Equipment Contract,1156
+item-3,Quick Production Contract,1510
+item-4,Quick Repair Contract,12812
 item-5,Daily Pause Permit,1
 item-7,Oath Certificate,1
 item-8,Quick Training Contract,83
-item-9,Enhancement Capsule,1295
+item-9,Enhancement Capsule,1293
 item-11,Key Card,0
 item-12,Points,0
 item-13,Name Change Card,1
-item-14,Original Sample,3430
-item-15,Pure Sample,933
-item-16,Quick Analysis Contract,888
-item-17,Data Patch,78
-item-41,Token,1391
+item-14,Original Sample,3560
+item-15,Pure Sample,844
+item-16,Quick Analysis Contract,893
+item-17,Data Patch,79
+item-41,Token,1406
 item-42,Exchange Ticket,0
-item-43,Black Card,11
-item-44,Calibration Ticket,522
-item-45,Memory Fragment,3769
+item-43,Black Card,12
+item-44,Calibration Ticket,532
+item-45,Memory Fragment,3569
 item-46,Special Combat Report,14059
 item-47,Theater Material,2
-item-50,Universal Parts,3740
+item-50,Universal Parts,3736
 item-51,New Type Fire-Control Component,37
 item-53,Gachapon Ticket,22
 item-100,Elite Griffin Combat Medal,11
@@ -46,28 +46,28 @@ item-305,Central Data: AT4,0
 item-306,Core Data: QLZ-04,5
 item-307,Central Data: Mk 153,15
 item-308,Core Data: PP93,20
-item-506,Battery,4960
-item-507,Surplus EXP,178704
-item-508,Friendship Points,14740
-item-509,Fairy Command,116
+item-506,Battery,4591
+item-507,Surplus EXP,305436
+item-508,Friendship Points,14880
+item-509,Fairy Command,161
 item-510,Combat Sim Extra Energy,20
 item-512,Supernova Kernel,70
 item-513,Dark Star Kernel,65400
 item-514,Petri Dish,2178
-item-515,Basic Training Keycode,17059
-item-516,Advanced Training Keycode,3326
+item-515,Basic Training Keycode,17459
+item-516,Advanced Training Keycode,2926
 item-517,Specified Equipment Contract,0
-item-519,HOC General Data,186
+item-519,HOC General Data,187
 item-520,Frag Grenade,269
 item-521,Stun Grenade,8
 item-522,Turret,16
 item-523,G&K,1
 item-524,Goliath Projectile,0
-item-525,Quick Auto-Battle Contract,1512
+item-525,Quick Auto-Battle Contract,1517
 item-601,Infinite Surprise Dye,27
 item-602,Colorful Specified Dye,0
 item-603,Potential Energy,0
-item-604,Electronic Impulse,3
+item-604,Electronic Impulse,1
 item-605,Aid Commission,12
 item-606,Transfer Catalyst,760
 item-1001,AAT-52 Icon,1
@@ -359,9 +359,9 @@ item-2124,ID: Mirror Stage,1
 item-2142,The Sky is the Limit,1
 item-2174,ID: Power Struggle,1
 item-2224,ID Card: Fixed Point,1
-item-4001,City's Gift,50468
-item-4002,Snowfield's Gift,3154
-item-4003,Forest's Gift,28911
+item-4001,City's Gift,36985
+item-4002,Snowfield's Gift,3337
+item-4003,Forest's Gift,28928
 item-4004,Wasteland's Gift,8847
 item-6001,Ordinary Meat Bun,30
 item-6002,Bundle of Meat Buns,24
@@ -371,24 +371,26 @@ item-6005,Comfort Bucket for One,6
 item-6006,Full Meal for Two,94
 item-6007,Strawberry Cheesecake Slice,27
 item-6008,One Week's Cake Selection,10
-item-6009,Sweet Explosives,60
+item-6009,Sweet Explosives,63
 item-6010,"Baby  B-A-B-Y.",38
 item-6011,Streetside Oden,16
 item-6012,Wild Honeycomb,31
 item-6013,Icy Theater,46
 item-7002,Extra Parts,1
-item-7004,Lovestruck,1
-item-7007,Princess Syndrome,0
+item-7004,Lovestruck,2
+item-7007,Princess Syndrome,1
+item-7010,Golden Lullaby,1
 item-7012,Cherry Blossom Breeze,0
-item-7013,Stormy Cloud,0
+item-7013,Stormy Cloud,1
 item-7015,Structurer,1
-item-7016,Wayfinder,0
+item-7016,Wayfinder,1
 item-7018,Impression of Warm Sunlight,1
-item-7022,Clover Game,2
-item-7025,"Medusina",1
+item-7019,Snowman Fantasy,1
+item-7022,Clover Game,3
+item-7025,"Medusina",2
 item-7026,Postmodern Warhorse,0
 item-7027,Player No. 2,1
-item-7028,Blue Reinforcements,1
+item-7028,Blue Reinforcements,2
 item-8001,Intel Points,2995
 item-8002,Intel Points,0
 item-8003,Intel Points,0
@@ -398,9 +400,9 @@ item-9005,Supply Box,0
 item-9006,item-10009006,1
 item-9007,item-10009007,1
 item-10603,Extra Potential Energy,1
-item-10604,Extra Impulse,50
-item-10605,Level of Activity,190
-item-10606,Frontline Protocol Advanced Card,230
+item-10604,Extra Impulse,51
+item-10605,Level of Activity,220
+item-10606,Frontline Protocol Advanced Card,260
 item-100006,Gingerbread Doll,12
 item-100008,Easter Egg,15
 item-100009,Crown of Respect,80
@@ -547,7 +549,6 @@ item-1500015,Guaranteed T-Doll Indicator,0
 item-1500016,Frontline Protocol - Extra Prize,0
 item-1500017,Basic Equipment Indicator,0
 gift-586,Queen of Castile,1
-gift-6505,Midnight Evangelion,1
 gift-6608,Raise the Christmas Elf,1
 gift-6809,Virtue of the Silk Brocade,1
 gift-100001,Lollipop,338
@@ -557,7 +558,7 @@ gift-100005,Mulan Tea,40
 gift-100006,Magic of Happiness,25
 gift-100007,Whiskey,60
 gift-100008,Eden's Apple,10
-gift-200001,Combat Report,1226
+gift-200001,Combat Report,1386
 gift-200003,Beer on Discount,21
 gift-200004,Paper Target,25
 gift-200005,Kandel Formulation,60
